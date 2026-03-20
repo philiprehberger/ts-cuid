@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/v/@philiprehberger/cuid-ts)](https://www.npmjs.com/package/@philiprehberger/cuid-ts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Collision-resistant sortable unique IDs for TypeScript.
+Collision-resistant sortable unique IDs for TypeScript
 
 ## Installation
 

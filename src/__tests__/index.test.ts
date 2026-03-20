@@ -1,6 +1,6 @@
 import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
-import { createId, createIdFactory, isCuid } from '../dist/index.js';
+import { createId, createIdFactory, isCuid } from '../../dist/index.js';
 
 describe('createId', () => {
   it('should generate a string starting with default prefix "c"', () => {
