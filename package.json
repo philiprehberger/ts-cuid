@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/cuid-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Collision-resistant sortable unique IDs",
   "keywords": [
     "cuid",
@@ -41,13 +41,14 @@
   ],
   "sideEffects": false,
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   },
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
     "typecheck": "tsc --noEmit",
-    "test": "node --test"
+    "test": "node --test",
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
