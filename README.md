@@ -1,8 +1,8 @@
 # @philiprehberger/cuid-ts
 
 [![CI](https://github.com/philiprehberger/ts-cuid/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-cuid/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/@philiprehberger/cuid-ts)](https://www.npmjs.com/package/@philiprehberger/cuid-ts)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/cuid-ts.svg)](https://www.npmjs.com/package/@philiprehberger/cuid-ts)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-cuid)](LICENSE)
 
 Collision-resistant sortable unique IDs for TypeScript
 
