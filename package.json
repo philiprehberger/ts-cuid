@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/cuid-ts",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Collision-resistant sortable unique IDs",
   "keywords": [
     "cuid",
@@ -8,7 +8,9 @@
     "unique",
     "sortable",
     "collision-resistant",
-    "uuid-alternative"
+    "uuid-alternative",
+    "short-id",
+    "timestamp"
   ],
   "author": "Philip Rehberger",
   "license": "MIT",

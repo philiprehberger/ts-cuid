@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.0 (2026-04-27)
+- Add `shortCuid()` generating shorter URL-friendly IDs (default 12 chars)
+- Add `extractTimestamp(id)` to recover the embedded timestamp from a CUID
+- Compliance: README badges aligned with repository slug
+
 ## 0.1.3
 
 - Standardize README to 3-badge format with emoji Support section
